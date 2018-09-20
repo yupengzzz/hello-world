@@ -17,3 +17,8 @@ void change()
   *a = 123123123;
   std::cout << "Why are these italicized??" << std::endl;
 }
+
+*single slanted text?*
+
+**ohhh double asteric makes texts boldddd
+the next line is also affected...**
